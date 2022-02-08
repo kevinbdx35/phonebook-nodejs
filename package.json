@@ -1,0 +1,12 @@
+{
+  "name": "phonebook-node",
+  "version": "1.0.0",
+  "description": "just a simple phonebook with node and csv",
+  "main": "index.js",
+  "author": "kevin b",
+  "license": "MIT",
+  "dependencies": {
+    "csv": "^6.0.5",
+    "inquirer": "^8.2.0"
+  }
+}
